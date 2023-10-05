@@ -1,16 +1,7 @@
-# flutter_web_demo
+# Flutter Responsive UI Demo
 
-A new Flutter project.
+## Description:
+This project is runnable on Android, iOS, & a web browser. It has responsive breakpoints for responsive UI for different screen sizes. It supports phones, tablets, monitors, & 4K resolution screens (TVs).
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Preview
+![alt text](https://i.postimg.cc/zBz1DH4s/Screenshot-1.png "img")
